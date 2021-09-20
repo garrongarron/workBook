@@ -24,7 +24,7 @@ All of them will also find in this book a complete development proposal.
 
 ## What does this book offer you? ##
 
-**Examples:** You will have to copy and paste examples to see with your own eyes how easy it is to create a video game.
-**Questions:** I ask questions that allow you to discover the concepts behind the examples.
-**Concepts:**  I will offer you definitions and fundamental statements that will allow you to make faster decisions based on these concepts and principles learned.
-**Links:** A huge amount of bibliography where to verify the origin of the ideas that I present to you.
+- **Examples:** You will have to copy and paste examples to see with your own eyes how easy it is to create a video game.
+- **Questions:** I ask questions that allow you to discover the concepts behind the examples.
+- **Concepts:**  I will offer you definitions and fundamental statements that will allow you to make faster decisions based on these concepts and principles learned.
+- **Links:** A huge amount of bibliography where to verify the origin of the ideas that I present to you.
